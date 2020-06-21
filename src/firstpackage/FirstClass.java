@@ -3,17 +3,8 @@ package firstpackage;
 public class FirstClass {
 
 	public static void main(String[] args) {
-		System.out.println("first commit from local repository");
-		System.out.println("second commint from local repository");
-		
-		
-
-		System.out.println("2. kez conflict yapiyoruz");
-
-		System.out.println("we are aganist the conflicts");
-		
-
-		System.out.println("first commit from remote repository");
+		System.out.println("ilk commit local reporsitory den");
+		System.out.println("ilk commit remote reporsitory den");
 		
 }
 }
